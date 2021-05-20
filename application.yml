@@ -1,3 +1,6 @@
+user:
+  firstName: kishore 
+  
 management:
   endpoint:
     health:
