@@ -1,1 +1,1 @@
-This file contains configuration
+This file contains configuration properties for spring boot projects
